@@ -13,6 +13,6 @@ You can resubmit your task using the form if you make last-minute edits. **The j
 
 On **October 28th at 12:00 PM (EST)**, all teams will present a short, **4-minute presentation** (slides are allowed) showcasing their best work. This final challenge will earn you extra points, and afterward, the winning teams will be announced along with the prizes!
 
-For support, please post your questions in the relevant task-specific channels on the Discord server, which are named after the tasks. (If you haven't joined yet, here is the invite link. Introduce yourself in the welcome thread to be granted access and the participant role: [https://discord.gg/Qes9ZhwR](https://discord.gg/Qes9ZhwR)). You can also use the private voice and chat channels provided for your team to collaborate.
+For support, please post your questions in the relevant task-specific channels on the Discord server, which are named after the tasks. (If you haven't joined yet, here is the invite link. Introduce yourself in the welcome thread to be granted access and the participant role: [https://discord.gg/6zbVBSef](https://discord.gg/6zbVBSef)). You can also use the private voice and chat channels provided for your team to collaborate.
 
 # Good luck, have fun, and we look forward to seeing your innovative solutions! 💡
